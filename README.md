@@ -1,5 +1,13 @@
 # All the resources we used and where to go to in order to learn more!
 
+### Official resources
+
+[The Garlicoin Subreddit](https://www.reddit.com/r/garlicoin/)
+
+[The Garlicoin Discord](https://discord.gg/garlicoin)
+
+[The Garlicoin Website](http://garlicoin.io/)
+
 ### Wallets/Mining
 [Garlium Download + Troubleshooting Steps](https://xske.github.io/garlium/)
 
