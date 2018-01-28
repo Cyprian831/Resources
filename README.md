@@ -1,21 +1,21 @@
 # All the resources we used and where to go to in order to learn more!
 
 ### Wallets/Mining
-https://xske.github.io/garlium/ Garlium download + Troubleshooting steps
+[Garlium Download + Troubleshooting Steps](https://xske.github.io/garlium/)
 
-https://pandawanfr.github.io/GarlicRecipes/ Essentials for Garlicoin.
+[Essentials for Garlicoin](https://pandawanfr.github.io/GarlicRecipes/)
 
-https://explorer.grlc-bakery.fun/ Explorer
+[Garlic Blockchain Explorer](https://explorer.grlc-bakery.fun/)
 
-http://pools.garlicoin.fun/ Mining Pool List
+[Mining Pool List](http://pools.garlicoin.fun/)
 
 ### Optimization for Nvidia + better CCminer version.
-https://www.reddit.com/r/garlicoinwiki/wiki/optimizing_nvidia Nvidia Optimization
+[Nvidia Optimization](https://www.reddit.com/r/garlicoinwiki/wiki/optimizing_nvidia)
 
-https://github.com/palginpav/ccminer/releases/tag/2.0-bitcore.v3 Better ccminer
+[Better CCminer](https://github.com/palginpav/ccminer/releases/tag/2.0-bitcore.v3)
 
 ### Coins/Values
 
-https://cryptocoincharts.info/coins/show/grlc
+[Crypto Coin Charts](https://cryptocoincharts.info/coins/show/grlc)
 
-https://www.reddit.com/r/GarlicMarket
+[The Reddit GarlicMarket](https://www.reddit.com/r/GarlicMarket)
