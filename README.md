@@ -27,3 +27,5 @@
 [Crypto Coin Charts](https://cryptocoincharts.info/coins/show/grlc)
 
 [The Reddit GarlicMarket](https://www.reddit.com/r/GarlicMarket)
+
+###### [Take me back to the hub!](https://cyprian831.github.io/Garlicoin/)
