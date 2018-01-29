@@ -24,8 +24,12 @@
 
 ### Coins/Values
 
-[Crypto Coin Charts](https://cryptocoincharts.info/coins/show/grlc)
+[TradeSatoshi](https://tradesatoshi.com/Exchange?market=GRLC_USDT)
 
 [The Reddit GarlicMarket](https://www.reddit.com/r/GarlicMarket)
+
+[Crypto Coin Charts](https://cryptocoincharts.info/coins/show/grlc)
+
+[CryptoCompare](https://www.cryptocompare.com/coins/grlc/overview)
 
 ###### [Take me back to the hub!](https://cyprian831.github.io/Garlicoin/)
