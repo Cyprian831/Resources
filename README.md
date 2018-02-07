@@ -13,6 +13,8 @@
 
 [Essentials for Garlicoin](https://pandawanfr.github.io/GarlicRecipes/)
 
+[Core Wallet GUI(aka Garlicoin Wallet)](https://github.com/SidiaDevelopment/GarlicoinWallet/releases)
+
 [Garlic Blockchain Explorer](https://explorer.grlc-bakery.fun/)
 
 [Mining Pool List](http://pools.garlicoin.fun/)
@@ -25,6 +27,10 @@
 ### Coins/Values
 
 [TradeSatoshi](https://tradesatoshi.com/Exchange?market=GRLC_USDT)
+
+[CoinFalcon](https://coinfalcon.com/hodl/GRLC-BTC)
+
+[Nanex](https://nanex.co/exchange)
 
 [The Reddit GarlicMarket](https://www.reddit.com/r/GarlicMarket)
 
